@@ -1,0 +1,33 @@
+{
+  "background_color": "#ffffff",
+  "description": "LinkUpNest: Grow your local business network and connect with nearby businesses to find new customers, partners, and collaborators. Promote your business online easily with our free directory listing, reaching potential customers searching for products and services in your area.",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Business directory platform that connects businesses",
+  "orientation": "any",
+  "scope": "linkupnest.com",
+  "short_name": "Business directory platform that connects businesses",
+  "start_url": "linkupnest.com",
+  "theme_color": "#d34242",
+  "icons": [
+    {
+      "src": "https://www.linkupnest.com/themes/sunshine/img/icon.png",
+      "type": "image/png",
+      "sizes": "104x100"
+    },
+    {
+      "src": "https://www.linkupnest.com/themes/sunshine/img/og.jpg",
+      "type": "image/jpeg",
+      "sizes": "1280x810"
+    }
+  ],
+  "id": "Link Up Nest",
+  "lang": "en",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ]
+}
